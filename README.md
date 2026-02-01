@@ -28,16 +28,16 @@ Analyze & Report;
 ----------------------------
 ! Project Structure !
 program-impact-reporting-system
-├── generate_data.py
-├── clean_data.py
-├── report.py
-├── requirements.txt
-├── data/
-│ ├── raw_program_data.csv
-│ └── clean_program_data.csv
-└── reports/
-    ├── completion_status_distribution.png
-    └── average_outcome_by_category.png
+- generate_data.py
+- clean_data.py
+- report.py
+- requirements.txt
+- data/
+  - raw_program_data.csv
+  - clean_program_data.csv
+- reports/
+  - completion_status_distribution.png
+  - average_outcome_by_category.png
 ----------------------------
 How to Run This Project (Step-by-Step)
 1. Install required libraries
