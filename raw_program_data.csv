@@ -1,0 +1,301 @@
+program_id,program_name,category,participant_id,enrollment_date,completion_status,outcome_score,notes
+3,Community Health Outreach,Health,P1000,2025-06-24,In Progress,54,Participant showed strong engagement
+2,Affordable Housing Support,Housing,P1001,2025-07-13,Completed,85,Left program early
+2,Affordable Housing Support,Housing,P1002,2025-06-09,Dropped,6,Left program early
+4,Job Readiness Training,Employment,P1003,2025-07-11,In Progress,32,Attendance was irregular
+2,Affordable Housing Support,Housing,P1004,2025-10-15,Dropped,51,Attendance was irregular
+2,Affordable Housing Support,Housing,P1005,2025-11-05,Completed,76,Requires follow-up support
+2,Affordable Housing Support,Housing,P1006,2025-08-02,In Progress,50,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1007,2025-09-13,Dropped,48,Left program early
+3,Community Health Outreach,Health,P1008,2025-08-01,Completed,94,Left program early
+4,Job Readiness Training,Employment,P1009,2025-11-29,Dropped,55,Left program early
+1,Youth Skills Development,Youth,P1010,2025-07-11,Dropped,51,Requires follow-up support
+3,Community Health Outreach,Health,P1011,2026-01-17,Dropped,57,Excellent improvement observed
+3,Community Health Outreach,Health,P1012,2025-05-26,In Progress,44,Attendance was irregular
+2,Affordable Housing Support,Housing,P1013,2025-10-21,In Progress,59,Excellent improvement observed
+1,Youth Skills Development,Youth,P1014,2025-06-22,Dropped,40,Requires follow-up support
+2,Affordable Housing Support,Housing,P1015,2026-01-03,Completed,96,Excellent improvement observed
+4,Job Readiness Training,Employment,P1016,2025-12-04,Dropped,5,Requires follow-up support
+3,Community Health Outreach,Health,P1017,2026-01-10,Completed,70,Completed all required activities
+4,Job Readiness Training,Employment,P1018,2025-04-14,Dropped,26,Attendance was irregular
+3,Community Health Outreach,Health,P1019,2025-08-18,Completed,69,Attendance was irregular
+3,Community Health Outreach,Health,P1020,2025-05-30,In Progress,41,Participant showed strong engagement
+3,Community Health Outreach,Health,P1021,2026-01-02,Dropped,34,Excellent improvement observed
+3,Community Health Outreach,Health,P1022,2025-08-25,Completed,93,Attendance was irregular
+3,Community Health Outreach,Health,P1023,2025-12-05,In Progress,30,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1024,2025-06-22,Completed,82,Participant showed strong engagement
+2,Affordable Housing Support,Housing,P1025,2025-07-15,In Progress,56,Completed all required activities
+2,Affordable Housing Support,Housing,P1026,2025-05-16,In Progress,35,Attendance was irregular
+1,Youth Skills Development,Youth,P1027,2025-06-02,Dropped,32,Attendance was irregular
+2,Affordable Housing Support,Housing,P1028,2025-08-25,Dropped,20,Participant showed strong engagement
+3,Community Health Outreach,Health,P1029,2026-01-22,In Progress,41,Participant showed strong engagement
+3,Community Health Outreach,Health,P1030,2025-04-18,Dropped,46,Completed all required activities
+3,Community Health Outreach,Health,P1031,2025-12-03,Completed,99,Participant showed strong engagement
+2,Affordable Housing Support,Housing,P1032,2025-08-08,Completed,87,Participant showed strong engagement
+3,Community Health Outreach,Health,P1033,2025-06-18,In Progress,48,Left program early
+4,Job Readiness Training,Employment,P1034,2025-06-02,Dropped,36,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1035,2025-02-14,Completed,71,Participant showed strong engagement
+3,Community Health Outreach,Health,P1036,2025-05-18,In Progress,57,Attendance was irregular
+1,Youth Skills Development,Youth,P1037,2025-06-02,Completed,78,Requires follow-up support
+3,Community Health Outreach,Health,P1038,2025-11-18,Completed,63,Completed all required activities
+4,Job Readiness Training,Employment,P1039,2025-07-15,In Progress,66,Requires follow-up support
+4,Job Readiness Training,Employment,P1040,2025-07-21,Completed,85,Requires follow-up support
+3,Community Health Outreach,Health,P1041,2025-11-21,In Progress,56,Requires follow-up support
+3,Community Health Outreach,Health,P1042,2025-04-13,Dropped,54,Left program early
+2,Affordable Housing Support,Housing,P1043,2026-01-29,Completed,98,Attendance was irregular
+4,Job Readiness Training,Employment,P1044,2025-08-23,In Progress,67,Completed all required activities
+4,Job Readiness Training,Employment,P1045,2025-10-27,Dropped,29,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1046,2025-08-31,Completed,87,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1047,2025-10-11,Completed,87,Excellent improvement observed
+3,Community Health Outreach,Health,P1048,2025-06-22,In Progress,41,Excellent improvement observed
+4,Job Readiness Training,Employment,P1049,2025-09-06,In Progress,46,Left program early
+1,Youth Skills Development,Youth,P1050,2025-09-24,In Progress,57,Participant showed strong engagement
+2,Affordable Housing Support,Housing,P1051,2025-10-02,Dropped,20,Left program early
+1,Youth Skills Development,Youth,P1052,2025-05-21,Completed,87,Attendance was irregular
+1,Youth Skills Development,Youth,P1053,2025-08-21,Dropped,51,Participant showed strong engagement
+2,Affordable Housing Support,Housing,P1054,2026-01-30,Dropped,26,Attendance was irregular
+1,Youth Skills Development,Youth,P1055,2025-05-18,Dropped,3,Requires follow-up support
+3,Community Health Outreach,Health,P1056,2025-02-06,Dropped,30,Participant showed strong engagement
+3,Community Health Outreach,Health,P1057,2025-06-07,Dropped,1,Left program early
+3,Community Health Outreach,Health,P1058,2025-03-27,Dropped,15,Attendance was irregular
+4,Job Readiness Training,Employment,P1059,2025-05-19,Dropped,42,Completed all required activities
+2,Affordable Housing Support,Housing,P1060,2025-12-28,Dropped,23,Participant showed strong engagement
+3,Community Health Outreach,Health,P1061,2025-05-25,Dropped,33,Requires follow-up support
+4,Job Readiness Training,Employment,P1062,2025-02-12,Dropped,15,Requires follow-up support
+3,Community Health Outreach,Health,P1063,2025-06-19,In Progress,31,Excellent improvement observed
+2,Affordable Housing Support,Housing,P1064,2025-07-03,Completed,73,Requires follow-up support
+3,Community Health Outreach,Health,P1065,2025-12-01,Completed,92,Completed all required activities
+3,Community Health Outreach,Health,P1066,2025-06-08,Completed,75,Completed all required activities
+1,Youth Skills Development,Youth,P1067,2025-03-16,Dropped,41,Excellent improvement observed
+4,Job Readiness Training,Employment,P1068,2025-09-09,In Progress,53,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1069,2025-03-12,Completed,63,Requires follow-up support
+2,Affordable Housing Support,Housing,P1070,2025-10-22,Dropped,35,Completed all required activities
+1,Youth Skills Development,Youth,P1071,2025-07-12,Completed,93,Completed all required activities
+2,Affordable Housing Support,Housing,P1072,2025-11-19,In Progress,57,Left program early
+3,Community Health Outreach,Health,P1073,2025-03-17,In Progress,34,Participant showed strong engagement
+3,Community Health Outreach,Health,P1074,2025-04-25,In Progress,44,Excellent improvement observed
+2,Affordable Housing Support,Housing,P1075,2026-01-30,Dropped,47,Excellent improvement observed
+2,Affordable Housing Support,Housing,P1076,2025-02-02,In Progress,31,Excellent improvement observed
+2,Affordable Housing Support,Housing,P1077,2025-10-28,Dropped,42,Participant showed strong engagement
+2,Affordable Housing Support,Housing,P1078,2025-12-08,Completed,80,Participant showed strong engagement
+4,Job Readiness Training,Employment,P1079,2026-01-07,Dropped,0,Attendance was irregular
+3,Community Health Outreach,Health,P1080,2025-10-10,In Progress,65,Left program early
+4,Job Readiness Training,Employment,P1081,2025-02-20,Completed,64,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1082,2025-09-08,Completed,60,Excellent improvement observed
+3,Community Health Outreach,Health,P1083,2025-11-10,In Progress,39,Excellent improvement observed
+3,Community Health Outreach,Health,P1084,2025-04-09,Completed,69,Attendance was irregular
+3,Community Health Outreach,Health,P1085,2025-09-12,In Progress,36,Requires follow-up support
+2,Affordable Housing Support,Housing,P1086,2025-12-13,In Progress,31,Completed all required activities
+2,Affordable Housing Support,Housing,P1087,2025-04-04,Completed,63,Requires follow-up support
+2,Affordable Housing Support,Housing,P1088,2025-08-15,In Progress,73,Requires follow-up support
+4,Job Readiness Training,Employment,P1089,2026-01-14,In Progress,57,Attendance was irregular
+4,Job Readiness Training,Employment,P1090,2025-11-17,Completed,84,Participant showed strong engagement
+3,Community Health Outreach,Health,P1091,2025-12-23,Completed,60,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1092,2025-06-04,Dropped,40,Attendance was irregular
+1,Youth Skills Development,Youth,P1093,2026-01-22,Dropped,38,Attendance was irregular
+2,Affordable Housing Support,Housing,P1094,2025-03-26,In Progress,63,Completed all required activities
+1,Youth Skills Development,Youth,P1095,2025-12-29,Completed,76,Left program early
+2,Affordable Housing Support,Housing,P1096,2025-02-10,Completed,93,Excellent improvement observed
+1,Youth Skills Development,Youth,P1097,2025-06-22,In Progress,40,Requires follow-up support
+3,Community Health Outreach,Health,P1098,2026-01-24,Dropped,26,Requires follow-up support
+3,Community Health Outreach,Health,P1099,2025-10-08,Completed,99,Participant showed strong engagement
+4,Job Readiness Training,Employment,P1100,2025-05-01,Dropped,42,Requires follow-up support
+3,Community Health Outreach,Health,P1101,2025-03-16,Dropped,23,Left program early
+3,Community Health Outreach,Health,P1102,2025-06-07,Dropped,52,Completed all required activities
+4,Job Readiness Training,Employment,P1103,2025-06-20,Completed,68,Attendance was irregular
+2,Affordable Housing Support,Housing,P1104,2025-10-20,In Progress,61,Attendance was irregular
+1,Youth Skills Development,Youth,P1105,2025-05-02,Completed,88,Participant showed strong engagement
+4,Job Readiness Training,Employment,P1106,2025-09-28,Completed,80,Excellent improvement observed
+2,Affordable Housing Support,Housing,P1107,2025-04-04,Completed,81,Excellent improvement observed
+3,Community Health Outreach,Health,P1108,2025-05-28,Completed,80,Excellent improvement observed
+1,Youth Skills Development,Youth,P1109,2025-08-18,Dropped,2,Completed all required activities
+3,Community Health Outreach,Health,P1110,2025-05-17,Dropped,33,Excellent improvement observed
+3,Community Health Outreach,Health,P1111,2025-11-29,Completed,88,Requires follow-up support
+4,Job Readiness Training,Employment,P1112,2026-01-10,Completed,83,Excellent improvement observed
+2,Affordable Housing Support,Housing,P1113,2025-05-26,Dropped,50,Excellent improvement observed
+1,Youth Skills Development,Youth,P1114,2025-10-07,Completed,78,Participant showed strong engagement
+4,Job Readiness Training,Employment,P1115,2025-06-07,In Progress,71,Participant showed strong engagement
+3,Community Health Outreach,Health,P1116,2025-08-03,In Progress,42,Excellent improvement observed
+3,Community Health Outreach,Health,P1117,2025-10-25,In Progress,74,Excellent improvement observed
+4,Job Readiness Training,Employment,P1118,2025-05-13,Completed,100,Participant showed strong engagement
+3,Community Health Outreach,Health,P1119,2025-03-17,Completed,60,Left program early
+1,Youth Skills Development,Youth,P1120,2025-08-29,Completed,72,Excellent improvement observed
+3,Community Health Outreach,Health,P1121,2025-09-27,In Progress,59,Requires follow-up support
+2,Affordable Housing Support,Housing,P1122,2025-09-05,Dropped,11,Completed all required activities
+4,Job Readiness Training,Employment,P1123,2025-08-17,Completed,84,Requires follow-up support
+2,Affordable Housing Support,Housing,P1124,2025-02-28,Dropped,29,Requires follow-up support
+3,Community Health Outreach,Health,P1125,2025-11-21,In Progress,69,Attendance was irregular
+2,Affordable Housing Support,Housing,P1126,2025-04-25,Dropped,23,Excellent improvement observed
+4,Job Readiness Training,Employment,P1127,2025-08-15,Dropped,56,Completed all required activities
+4,Job Readiness Training,Employment,P1128,2025-08-11,Completed,85,Excellent improvement observed
+4,Job Readiness Training,Employment,P1129,2025-05-11,In Progress,67,Requires follow-up support
+3,Community Health Outreach,Health,P1130,2025-12-30,Completed,78,Excellent improvement observed
+1,Youth Skills Development,Youth,P1131,2025-09-23,In Progress,56,Requires follow-up support
+3,Community Health Outreach,Health,P1132,2025-04-13,Dropped,5,Requires follow-up support
+2,Affordable Housing Support,Housing,P1133,2025-07-12,Completed,60,Excellent improvement observed
+2,Affordable Housing Support,Housing,P1134,2025-02-06,In Progress,43,Excellent improvement observed
+2,Affordable Housing Support,Housing,P1135,2025-04-26,Completed,96,Attendance was irregular
+2,Affordable Housing Support,Housing,P1136,2025-04-01,Completed,96,Excellent improvement observed
+2,Affordable Housing Support,Housing,P1137,2025-02-08,Completed,88,Completed all required activities
+3,Community Health Outreach,Health,P1138,2025-10-29,Completed,86,Excellent improvement observed
+1,Youth Skills Development,Youth,P1139,2025-12-29,Dropped,10,Left program early
+2,Affordable Housing Support,Housing,P1140,2025-10-13,In Progress,71,Completed all required activities
+4,Job Readiness Training,Employment,P1141,2025-11-18,Dropped,60,Excellent improvement observed
+2,Affordable Housing Support,Housing,P1142,2025-08-31,Completed,78,Completed all required activities
+2,Affordable Housing Support,Housing,P1143,2026-01-23,Completed,92,Completed all required activities
+1,Youth Skills Development,Youth,P1144,2025-06-20,In Progress,69,Completed all required activities
+2,Affordable Housing Support,Housing,P1145,2025-09-27,Completed,79,Requires follow-up support
+4,Job Readiness Training,Employment,P1146,2025-04-17,In Progress,36,Participant showed strong engagement
+4,Job Readiness Training,Employment,P1147,2025-10-13,In Progress,73,Completed all required activities
+1,Youth Skills Development,Youth,P1148,2025-07-13,Dropped,10,Excellent improvement observed
+1,Youth Skills Development,Youth,P1149,2025-03-10,Completed,89,Participant showed strong engagement
+4,Job Readiness Training,Employment,P1150,2025-07-07,Completed,95,Completed all required activities
+4,Job Readiness Training,Employment,P1151,2025-07-04,Dropped,42,Requires follow-up support
+1,Youth Skills Development,Youth,P1152,2025-12-23,In Progress,54,Attendance was irregular
+4,Job Readiness Training,Employment,P1153,2025-07-03,Dropped,24,Excellent improvement observed
+1,Youth Skills Development,Youth,P1154,2025-12-23,In Progress,78,Participant showed strong engagement
+3,Community Health Outreach,Health,P1155,2025-03-25,In Progress,69,Left program early
+4,Job Readiness Training,Employment,P1156,2025-06-06,In Progress,48,Excellent improvement observed
+3,Community Health Outreach,Health,P1157,2025-12-05,Completed,99,Attendance was irregular
+2,Affordable Housing Support,Housing,P1158,2025-03-20,In Progress,40,Requires follow-up support
+2,Affordable Housing Support,Housing,P1159,2025-06-21,Completed,75,Completed all required activities
+1,Youth Skills Development,Youth,P1160,2025-05-28,In Progress,54,Left program early
+4,Job Readiness Training,Employment,P1161,2025-10-26,Completed,79,Completed all required activities
+4,Job Readiness Training,Employment,P1162,2026-01-09,Completed,65,Left program early
+2,Affordable Housing Support,Housing,P1163,2025-09-03,Completed,99,Attendance was irregular
+4,Job Readiness Training,Employment,P1164,2026-01-13,Completed,97,Participant showed strong engagement
+3,Community Health Outreach,Health,P1165,2025-12-24,Dropped,0,Attendance was irregular
+2,Affordable Housing Support,Housing,P1166,2025-02-20,Dropped,59,Participant showed strong engagement
+4,Job Readiness Training,Employment,P1167,2025-04-02,Completed,96,Requires follow-up support
+2,Affordable Housing Support,Housing,P1168,2026-01-06,Dropped,56,Excellent improvement observed
+1,Youth Skills Development,Youth,P1169,2026-01-22,Completed,99,Excellent improvement observed
+3,Community Health Outreach,Health,P1170,2025-05-21,Dropped,39,Participant showed strong engagement
+2,Affordable Housing Support,Housing,P1171,2025-08-13,Dropped,45,Requires follow-up support
+3,Community Health Outreach,Health,P1172,2025-10-02,Dropped,17,Attendance was irregular
+4,Job Readiness Training,Employment,P1173,2025-09-30,Dropped,60,Completed all required activities
+3,Community Health Outreach,Health,P1174,2025-12-16,Completed,66,Attendance was irregular
+4,Job Readiness Training,Employment,P1175,2025-11-06,Dropped,45,Excellent improvement observed
+4,Job Readiness Training,Employment,P1176,2025-03-30,In Progress,71,Attendance was irregular
+4,Job Readiness Training,Employment,P1177,2025-06-06,Completed,93,Excellent improvement observed
+2,Affordable Housing Support,Housing,P1178,2025-02-18,Dropped,52,Completed all required activities
+2,Affordable Housing Support,Housing,P1179,2025-05-27,Dropped,58,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1180,2025-07-12,Dropped,21,Completed all required activities
+2,Affordable Housing Support,Housing,P1181,2025-02-07,In Progress,30,Left program early
+1,Youth Skills Development,Youth,P1182,2025-12-27,Completed,68,Completed all required activities
+2,Affordable Housing Support,Housing,P1183,2026-01-01,Dropped,57,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1184,2025-06-10,Completed,81,Attendance was irregular
+1,Youth Skills Development,Youth,P1185,2025-12-14,Completed,96,Left program early
+4,Job Readiness Training,Employment,P1186,2025-08-03,Dropped,27,Attendance was irregular
+3,Community Health Outreach,Health,P1187,2025-06-18,Completed,63,Participant showed strong engagement
+3,Community Health Outreach,Health,P1188,2025-08-27,In Progress,74,Attendance was irregular
+1,Youth Skills Development,Youth,P1189,2025-09-01,In Progress,41,Left program early
+2,Affordable Housing Support,Housing,P1190,2025-12-27,In Progress,53,Excellent improvement observed
+4,Job Readiness Training,Employment,P1191,2025-09-15,In Progress,75,Left program early
+4,Job Readiness Training,Employment,P1192,2025-05-01,In Progress,31,Excellent improvement observed
+4,Job Readiness Training,Employment,P1193,2025-09-09,In Progress,56,Attendance was irregular
+2,Affordable Housing Support,Housing,P1194,2025-11-09,Dropped,8,Completed all required activities
+1,Youth Skills Development,Youth,P1195,2025-06-21,Dropped,28,Completed all required activities
+1,Youth Skills Development,Youth,P1196,2026-01-27,In Progress,78,Excellent improvement observed
+4,Job Readiness Training,Employment,P1197,2025-02-07,In Progress,35,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1198,2025-11-18,Dropped,41,Left program early
+3,Community Health Outreach,Health,P1199,2025-04-21,Completed,80,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1200,2025-06-04,Dropped,33,Requires follow-up support
+2,Affordable Housing Support,Housing,P1201,2025-06-27,Completed,99,Left program early
+4,Job Readiness Training,Employment,P1202,2025-07-31,In Progress,73,Requires follow-up support
+1,Youth Skills Development,Youth,P1203,2025-09-22,Completed,72,Excellent improvement observed
+3,Community Health Outreach,Health,P1204,2026-01-30,Completed,95,Attendance was irregular
+1,Youth Skills Development,Youth,P1205,2025-11-27,In Progress,46,Attendance was irregular
+4,Job Readiness Training,Employment,P1206,2025-09-25,Completed,73,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1207,2025-08-26,Dropped,24,Participant showed strong engagement
+4,Job Readiness Training,Employment,P1208,2025-09-12,Dropped,33,Excellent improvement observed
+3,Community Health Outreach,Health,P1209,2025-08-13,In Progress,58,Requires follow-up support
+3,Community Health Outreach,Health,P1210,2025-09-07,In Progress,61,Attendance was irregular
+2,Affordable Housing Support,Housing,P1211,2025-05-04,Dropped,18,Requires follow-up support
+4,Job Readiness Training,Employment,P1212,2025-03-07,Dropped,18,Participant showed strong engagement
+2,Affordable Housing Support,Housing,P1213,2025-12-17,In Progress,65,Left program early
+3,Community Health Outreach,Health,P1214,2025-10-13,Dropped,19,Requires follow-up support
+2,Affordable Housing Support,Housing,P1215,2025-05-01,In Progress,55,Attendance was irregular
+3,Community Health Outreach,Health,P1216,2025-04-26,In Progress,71,Participant showed strong engagement
+3,Community Health Outreach,Health,P1217,2025-10-29,In Progress,32,Requires follow-up support
+1,Youth Skills Development,Youth,P1218,2026-01-09,Completed,77,Excellent improvement observed
+1,Youth Skills Development,Youth,P1219,2025-12-12,Completed,100,Attendance was irregular
+1,Youth Skills Development,Youth,P1220,2025-08-09,Dropped,20,Attendance was irregular
+4,Job Readiness Training,Employment,P1221,2025-09-14,Dropped,32,Participant showed strong engagement
+4,Job Readiness Training,Employment,P1222,2025-03-23,Completed,61,Excellent improvement observed
+1,Youth Skills Development,Youth,P1223,2025-07-22,In Progress,56,Excellent improvement observed
+4,Job Readiness Training,Employment,P1224,2026-01-24,Completed,99,Left program early
+2,Affordable Housing Support,Housing,P1225,2025-05-30,In Progress,53,Requires follow-up support
+3,Community Health Outreach,Health,P1226,2025-07-20,Dropped,17,Completed all required activities
+3,Community Health Outreach,Health,P1227,2025-10-30,In Progress,74,Completed all required activities
+4,Job Readiness Training,Employment,P1228,2025-04-03,Completed,85,Attendance was irregular
+1,Youth Skills Development,Youth,P1229,2025-12-24,Dropped,19,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1230,2025-12-05,Completed,60,Requires follow-up support
+2,Affordable Housing Support,Housing,P1231,2025-10-09,Completed,82,Attendance was irregular
+1,Youth Skills Development,Youth,P1232,2025-12-11,Dropped,39,Participant showed strong engagement
+4,Job Readiness Training,Employment,P1233,2025-07-08,Completed,63,Attendance was irregular
+3,Community Health Outreach,Health,P1234,2025-04-20,In Progress,73,Attendance was irregular
+4,Job Readiness Training,Employment,P1235,2025-06-08,Completed,69,Excellent improvement observed
+2,Affordable Housing Support,Housing,P1236,2025-07-25,Dropped,58,Requires follow-up support
+4,Job Readiness Training,Employment,P1237,2025-07-23,In Progress,67,Excellent improvement observed
+2,Affordable Housing Support,Housing,P1238,2025-09-25,Completed,65,Completed all required activities
+2,Affordable Housing Support,Housing,P1239,2025-10-05,Dropped,1,Left program early
+3,Community Health Outreach,Health,P1240,2025-03-16,Dropped,60,Attendance was irregular
+1,Youth Skills Development,Youth,P1241,2026-01-06,Dropped,35,Left program early
+4,Job Readiness Training,Employment,P1242,2025-03-01,Dropped,18,Requires follow-up support
+4,Job Readiness Training,Employment,P1243,2025-04-15,Completed,70,Attendance was irregular
+1,Youth Skills Development,Youth,P1244,2025-11-22,Dropped,24,Excellent improvement observed
+2,Affordable Housing Support,Housing,P1245,2025-06-18,In Progress,41,Requires follow-up support
+3,Community Health Outreach,Health,P1246,2025-07-02,In Progress,78,Participant showed strong engagement
+4,Job Readiness Training,Employment,P1247,2025-02-26,In Progress,51,Completed all required activities
+2,Affordable Housing Support,Housing,P1248,2025-12-25,Dropped,4,Requires follow-up support
+2,Affordable Housing Support,Housing,P1249,2025-06-26,Dropped,30,Excellent improvement observed
+2,Affordable Housing Support,Housing,P1250,2025-02-22,Dropped,34,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1251,2026-01-14,Completed,87,Requires follow-up support
+3,Community Health Outreach,Health,P1252,2025-12-08,Completed,72,Left program early
+4,Job Readiness Training,Employment,P1253,2025-04-29,Completed,89,Attendance was irregular
+2,Affordable Housing Support,Housing,P1254,2025-09-02,Dropped,53,Participant showed strong engagement
+3,Community Health Outreach,Health,P1255,2025-09-11,Completed,66,Completed all required activities
+2,Affordable Housing Support,Housing,P1256,2025-05-17,Completed,93,Left program early
+4,Job Readiness Training,Employment,P1257,2026-01-07,Dropped,22,Requires follow-up support
+1,Youth Skills Development,Youth,P1258,2025-09-05,In Progress,51,Attendance was irregular
+3,Community Health Outreach,Health,P1259,2025-06-10,In Progress,75,Attendance was irregular
+1,Youth Skills Development,Youth,P1260,2025-09-05,Dropped,9,Requires follow-up support
+1,Youth Skills Development,Youth,P1261,2025-08-10,Completed,90,Requires follow-up support
+4,Job Readiness Training,Employment,P1262,2025-08-21,In Progress,62,Completed all required activities
+1,Youth Skills Development,Youth,P1263,2025-06-03,Completed,85,Excellent improvement observed
+3,Community Health Outreach,Health,P1264,2025-05-20,In Progress,37,Completed all required activities
+2,Affordable Housing Support,Housing,P1265,2025-03-07,In Progress,40,Completed all required activities
+1,Youth Skills Development,Youth,P1266,2025-03-08,Dropped,3,Completed all required activities
+2,Affordable Housing Support,Housing,P1267,2025-08-14,In Progress,67,Left program early
+1,Youth Skills Development,Youth,P1268,2025-05-23,Completed,98,Left program early
+4,Job Readiness Training,Employment,P1269,2025-06-15,In Progress,74,Completed all required activities
+3,Community Health Outreach,Health,P1270,2025-12-19,Completed,84,Requires follow-up support
+3,Community Health Outreach,Health,P1271,2025-10-03,In Progress,76,Left program early
+3,Community Health Outreach,Health,P1272,2025-10-21,Dropped,44,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1273,2025-09-29,In Progress,61,Left program early
+2,Affordable Housing Support,Housing,P1274,2025-12-15,In Progress,72,Attendance was irregular
+1,Youth Skills Development,Youth,P1275,2025-02-02,Dropped,16,Excellent improvement observed
+2,Affordable Housing Support,Housing,P1276,2025-05-23,Dropped,19,Completed all required activities
+4,Job Readiness Training,Employment,P1277,2025-12-12,Completed,74,Participant showed strong engagement
+2,Affordable Housing Support,Housing,P1278,2025-05-24,In Progress,34,Left program early
+1,Youth Skills Development,Youth,P1279,2025-05-13,Completed,60,Requires follow-up support
+3,Community Health Outreach,Health,P1280,2025-06-06,Dropped,16,Left program early
+1,Youth Skills Development,Youth,P1281,2025-04-12,Completed,100,Completed all required activities
+3,Community Health Outreach,Health,P1282,2025-03-12,In Progress,69,Left program early
+2,Affordable Housing Support,Housing,P1283,2025-12-26,Completed,94,Requires follow-up support
+4,Job Readiness Training,Employment,P1284,2025-08-19,In Progress,70,Participant showed strong engagement
+2,Affordable Housing Support,Housing,P1285,2025-11-02,Dropped,38,Excellent improvement observed
+1,Youth Skills Development,Youth,P1286,2025-03-30,Completed,90,Completed all required activities
+4,Job Readiness Training,Employment,P1287,2025-10-12,Completed,83,Requires follow-up support
+2,Affordable Housing Support,Housing,P1288,2025-10-11,In Progress,59,Excellent improvement observed
+1,Youth Skills Development,Youth,P1289,2025-10-09,In Progress,51,Attendance was irregular
+4,Job Readiness Training,Employment,P1290,2025-04-17,In Progress,80,Participant showed strong engagement
+4,Job Readiness Training,Employment,P1291,2025-10-27,In Progress,54,Excellent improvement observed
+1,Youth Skills Development,Youth,P1292,2025-05-05,Dropped,58,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1293,2025-09-10,Dropped,15,Left program early
+2,Affordable Housing Support,Housing,P1294,2025-08-12,Dropped,15,Completed all required activities
+2,Affordable Housing Support,Housing,P1295,2025-12-17,Completed,68,Completed all required activities
+3,Community Health Outreach,Health,P1296,2025-06-04,Completed,85,Participant showed strong engagement
+1,Youth Skills Development,Youth,P1297,2025-09-25,In Progress,56,Participant showed strong engagement
+2,Affordable Housing Support,Housing,P1298,2025-06-09,Completed,67,Requires follow-up support
+1,Youth Skills Development,Youth,P1299,2026-01-15,In Progress,79,Completed all required activities
